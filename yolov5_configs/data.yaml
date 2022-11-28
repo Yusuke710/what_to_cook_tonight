@@ -1,0 +1,69 @@
+names:
+- apple
+- banana
+- beef
+- blueberries
+- broccoli
+- butter
+- carrot
+- cauliflower
+- cheese
+- chicken
+- chocolate
+- corn
+- cream_cheese
+- cucumber
+- dates
+- eggplant
+- eggs
+- ginger
+- grapes
+- green_beans
+- green_bell_pepper
+- green_chillies
+- ground_beef
+- heavy_cream
+- kiwi
+- lemon
+- lettuce
+- lime
+- milk
+- mineral_water
+- mint
+- mushrooms
+- olives
+- onion
+- orange
+- parsley
+- peach
+- peas
+- pickles
+- potato
+- radish
+- red_bell_pepper
+- red_cabbage
+- red_grapes
+- red_onion
+- salami
+- sausage
+- shrimp
+- spinach
+- spring_onion
+- strawberries
+- sweet_potato
+- tangerine
+- tomato
+- tomato_paste
+- yellow_bell_pepper
+- yoghurt
+- zucchini
+nc: 58
+roboflow:
+  license: CC BY 4.0
+  project: aicook-final
+  url: https://universe.roboflow.com/aicook/aicook-final/dataset/2
+  version: 2
+  workspace: aicook
+test: ../test/images
+train: aicook-final-2/train/images
+val: aicook-final-2/valid/images
